@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<?php 
+		$tx1 = "Praktikum PHP";
+		$tx2 = "Variabel, Tipe Data, String";
+		echo "<h2> $tx1 </h2>";
+		echo "Materi yang dipelajari" . $tx2;
+
+		print"<h2> $tx1 </h2>";
+		print"Materi yang dipelajari".$tx2;
+		 ?>
+
+</body>
+</html>

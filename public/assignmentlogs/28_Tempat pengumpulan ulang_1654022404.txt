@@ -1,0 +1,18 @@
+Pengumpulan ulang Modul 1 - HTML
+Pengumpulan ulang Modul 2 - HTML Sequel
+Pengumpulan ulang Modul 3 - CSS
+Pengumpulan ulang Modul 4 - Pengantar PHP, Array, Fungsi, String
+Pengumpulan ulang Modul 5 - Percabangan, Perulangan
+Pengumpulan ulang Modul 6 - Form_File
+Pengumpulan ulang Modul 7 - Cookies_Session
+Pengumpulan ulang Modul 8 - PHP MySQL Bagian 1
+
+
+Apabila terdapat kesalahan pada saat mengumpulkan file Modul 1 - HTML, peserta dapat mengumpulkan ulang disini
+Apabila terdapat kesalahan pada saat mengumpulkan file Modul 2 - HTML Sequel, peserta dapat mengumpulkan ulang disini
+Apabila terdapat kesalahan pada saat mengumpulkan file Modul 3 - CSS, peserta dapat mengumpulkan ulang disini
+Apabila terdapat kesalahan pada saat mengumpulkan file Modul 4 - Pengantar PHP, Array, Fungsi, String, peserta dapat mengumpulkan ulang disini
+Apabila terdapat kesalahan pada saat mengumpulkan file Modul 5 - Percabangan, Perulangan, peserta dapat mengumpulkan ulang disini
+Apabila terdapat kesalahan pada saat mengumpulkan file Modul 6 - Form_File, peserta dapat mengumpulkan ulang disini
+Apabila terdapat kesalahan pada saat mengumpulkan file Modul 7 - Cookies_Session, peserta dapat mengumpulkan ulang disini
+Apabila terdapat kesalahan pada saat mengumpulkan file Modul 8 - PHP MySQL Bagian 1, peserta dapat mengumpulkan ulang disini
